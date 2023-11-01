@@ -15,7 +15,8 @@ Repositório para resumos sobre Git e GitHub baseados nas documentações de amb
 
 | Aula | Resumo |
 |------|--------|
-|Salvando Alterações no Repositório Local| [#1]()
+|Salvando Alterações no Repositório Local| [#1]()|
+|Biblioteca de Comandos| [#2]()|
 
 ```
 exemplo de código

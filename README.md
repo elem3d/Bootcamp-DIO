@@ -24,7 +24,4 @@ Repositório para resumos baseados nas aulas do cursos inseridos no Bootcamp "Po
 
 |Categoria|Assunto|Link|Status
 |-------|----|----|----|
-|Artigo|MarkDown|[Como fazer README.md](https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)|🔴|
-|Artigo|MarkDown|[Como fazer README.md para perfil no GitHub](https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github)| 🔴|
-|Vídeo|MarkDown|[Como fazer README.md para perfil no GitHub](https://www.youtube.com/watch?v=vfcXPpP_BeM)| ✅|
-|Vídeoa|MarkDown| [Como personalizar perfil no GitHub](https://www.youtube.com/watch?v=TsaLQAetPLU)| 🔴|
+

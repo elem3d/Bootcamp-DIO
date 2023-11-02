@@ -8,4 +8,6 @@
 
 - **DVCS:** *Sistema de Controle de Versionamento Distribuído, (Distributed Version Control System)*. Este sistema também utiliza um servidor que necessita de conexão de rede para acessar, porém, as alterações podem ser feitas tanto no servidor quanto em um repositório local e posteriormente enviadas e mescladas com a última versão do servidor. Sendo assim cada usuário possui um clone do repositório do servidor para trabalhar sem necessidade de conexão com a rede.
 
-- **Git:** É um sistema *DVCS* gratuíto e Open Source, ou seja, de Código Aberto, (o que significa que qualquer pessoa pode acessar o seu código fonte) que trabalha com ramificações ("branches") e fusões ("merges") de maneira rápida e eficiente. É amplamente utilizado por programadores ao redor do mundo pois otimiza muito o trabalho em equipe em projetos de programação.
+- **Git:** É um softwer de *DVCS* gratuíto e Open Source, ou seja, de Código Aberto, (o que significa que qualquer pessoa pode acessar o seu código fonte) que trabalha com ramificações ("branches") e fusões ("merges") de maneira rápida e eficiente. É amplamente utilizado por programadores ao redor do mundo pois otimiza muito o trabalho em equipe em projetos de programação.
+
+- **GitHub:** É uma plataforma que utiliza o Git e adapta seu funcionamento para uma forma mais visual que um terminal para alterar, salvar e rastrear as versões de arquivos e partas dentro de repositórios. Também pode ser usado como rede social e uma plataforma para networking e portfólio.

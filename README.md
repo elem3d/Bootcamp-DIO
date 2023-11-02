@@ -1,6 +1,6 @@
-# DIO | Resumos Git e GitHub
+# DIO | Resumos
 
-Repositório para resumos sobre Git e GitHub baseados nas documentações de ambos e também nas aulas do curso Versionamento de Código com Git e GitHub inserido no Bootcamp "Potência Tech iFood - Desenvolvimento de Jogos" oferecido pela [Digital Innovation One](https://web.dio.me/home) em outubro de 2023.
+Repositório para resumos baseados nas aulas do cursos inseridos no Bootcamp "Potência Tech iFood - Desenvolvimento de Jogos" oferecido pela [Digital Innovation One](https://web.dio.me) em 2023.
 
 ## 📑 Documentação
 - [Git](https://git-scm.com/)
@@ -8,6 +8,7 @@ Repositório para resumos sobre Git e GitHub baseados nas documentações de amb
 - [Git - Documentação](https://git-scm.com/doc)
 - [GitHub Doc](https://docs.github.com/pt)
 - [GitHub Doc - Introdução](https://docs.github.com/pt/get-started)
+- [MarkDown Doc](https://www.markdownguide.org/tools/mkdocs/)
 
 ## 📚 Meus resumos
 
@@ -17,3 +18,13 @@ Repositório para resumos sobre Git e GitHub baseados nas documentações de amb
 |[Análise de Jogos]()| a fazer|-|
 |[Versionamento de Código - Conceitos Básicos](https://github.com/elem3d/Resumos/blob/ce3eede90a9f52ab3e433ceb8c6409d91fa55f7b/resumos/Versionamento%20aula%2001%20-%20conceitos.md#versionamento-de-c%C3%B3digo---conceitos-b%C3%A1sicos)| Concluído | 01/11/2023|
 |[Biblioteca de Comandos Git]()| a fazer|-|
+
+
+## 📲 Links Para estudar
+
+|Categoria|Assunto|Link|Status
+|-------|----|----|----|
+|Artigo|MarkDown|[Como fazer README.md](https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)|🔴|
+|Artigo|MarkDown|[Como fazer README.md para perfil no GitHub](https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github)| 🔴|
+|Vídeo|MarkDown|[Como fazer README.md para perfil no GitHub](https://www.youtube.com/watch?v=vfcXPpP_BeM)| 〰|
+|Vídeoa|MarkDown| [Como personalizar perfil no GitHub](https://www.youtube.com/watch?v=TsaLQAetPLU)| 🔴|

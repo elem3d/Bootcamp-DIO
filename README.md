@@ -1,6 +1,6 @@
 # DIO | Resumos
 
-Repositório para resumos baseados nas aulas do cursos inseridos no Bootcamp "Potência Tech iFood - Desenvolvimento de Jogos" oferecido pela [Digital Innovation One](https://web.dio.me) em 2023.
+Repositório para trabalhos práticos e resumos baseados nas aulas do cursos inseridos no Bootcamp "Potência Tech iFood - Desenvolvimento de Jogos" oferecido pela [Digital Innovation One](https://web.dio.me) em 2023.
 
 ## 📑 Documentação
 - [Git](https://git-scm.com/)

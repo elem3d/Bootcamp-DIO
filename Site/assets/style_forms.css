@@ -1,0 +1,61 @@
+h1{
+    color: yellow;
+    background: rgba(255, 193, 127, 0.23);
+    background-repeat:;
+    width: 100px;
+    height: 70px;
+    border-radius: 50%;
+    border-top-left-radius: 30%;
+    
+}
+
+h2{
+    background: rgba(127, 255, 212, 0.23);
+    width: 250px;
+    height: 70px;
+    border-radius: 50%;
+    border-top-left-radius: 30%;
+    color: yellow;
+}
+
+body{
+    background: purple;
+    color: yellow;
+}
+
+i{
+    background: rgba(255, 255, 0, 0.564);
+    width: 150px;
+    height: 30px;
+    border-radius: 10%;
+    color: rgb(6, 0, 63);
+
+}
+
+a{
+    color: rgb(1, 1, 80);
+}
+
+p{
+    color: rgb(255, 255, 7);
+}
+label{
+
+    background: yellow;
+    color: rgb(90, 0, 90);
+    border-radius: 10%;
+
+}
+
+input{
+    
+    background-color: rgba(94, 255, 255, 0.953);
+    color: crimson;
+    
+}
+
+button{
+
+    color: uri();
+
+}

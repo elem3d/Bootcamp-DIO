@@ -1,0 +1,36 @@
+h1{
+
+}
+
+dt {
+
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 25px;
+}
+
+[color="green"]{
+
+    color: rgb(2, 61, 2);
+    background: lightgreen;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 0px 0px 5px;
+
+}
+
+fieldset {
+
+    margin: 0px auto;
+    padding: 2px 2px 6px;
+    border-width: 5px;
+    border-radius: 5px;
+    border-color: darkgreen;
+    border-style: double;
+    display: inline-block;
+    block-size: 40px min-;
+    
+}

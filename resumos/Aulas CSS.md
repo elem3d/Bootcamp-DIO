@@ -71,4 +71,10 @@ aplicação em body: class="exemplo"
 aplicação em style: .exemplo {propriedade: valor;}
 
    - Seletor universal = seleciona todo o texto de uma página *
-   - 
+  
+
+-------------------------------------------------------------
+
+
+
+

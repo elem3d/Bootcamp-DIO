@@ -8,10 +8,10 @@ const promessaLeitura = fs.promises.readFile(filePath) /* Variável que gurada a
 promessaLeitura /* quando ler o arquivo vai executar as funções a seguir */ 
     .then((arquivo) => arquivo.toString('utf8')) /* conserva caracteres especiais */
     .then((textoDoArquivo) => textoDoArquivo.split('\n').slice(1)) /* divide linhas em strings separadas e desconsidera a primeira linha */
-    .then((textoEmLinhas) => textoEmLinhas.map((linha) =>{
-        const [nome, feito] = linha.split(';')
+    .then((textoEmLinhas) => textoEmLinhas.map((linha) =>{ /* Converte em objeto as strings, separando cada coluna */
+        const [tarefa, feito] = linha.split(';')
         return {
-            nome,
+            tarefa,
             feito: feito.trim() === 'ok'
         }
     }))
